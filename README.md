@@ -1,6 +1,6 @@
 # POPCORN: Active Learning for Population Health Modelling Consensus Reporting
 
-**POPCORN** (Population Health Modelling Consensus Reporting Network) presents an interactive **Streamlit-based active learning tool** for classifying scientific papers. This lightweight, human-in-the-loop system enables researchers to iteratively label papers as *included* or *excluded*, with real-time model updates.
+**POPCORN** (Population Health Modelling Consensus Reporting Network) presents an interactive **Streamlit-based active learning tool** for classifying scientific papers. This lightweight, human-in-the-loop system enables researchers to iteratively label papers as *included* or *excluded*, with real-time model updates. 
 
 Ideal for tasks such as:
 - Systematic reviews and evidence synthesis
