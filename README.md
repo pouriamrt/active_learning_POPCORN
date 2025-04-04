@@ -7,6 +7,8 @@ Ideal for tasks such as:
 - Population health modeling
 - Inclusion/exclusion screening in research workflows
 
+Live System: [POPCORN Active Learning App](http://ec2-52-60-155-21.ca-central-1.compute.amazonaws.com/popcorn_al)
+
 ---
 
 ## 🚀 Features
